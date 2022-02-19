@@ -1,0 +1,13 @@
+a{text-decoration: none;}
+ul{margin: 0;padding: 0;list-style: none;}
+.header{border: 1px solid red;padding: 34px 80px;}
+body{margin: 0;padding: 0;}
+.logo{width: 126px;float: left;}
+.img_logo{width: 100%;}
+.navlist li{float: left;margin-right: 20px;color: #C9A96E;}
+.navlist li a{color: rgb(4, 4, 4);}
+.nav{float: right;}
+.clearfix{clear: both;}
+.block_banner{height: 700px; background-image: url(img/5fe47dc78d8c51d5f9ab09285d1acec6.jpg);background-position: center;}
+.text_banner_h1{width: 560px;color: rgb(255, 255, 255);margin: 0 auto; padding-top: 550px;}
+.navlist li a.active{color: #C9A96E;}
